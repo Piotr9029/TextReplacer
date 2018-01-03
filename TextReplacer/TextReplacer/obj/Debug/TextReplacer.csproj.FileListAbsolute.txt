@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe.config
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\bin\Debug\TextReplacer.pdb
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\obj\Debug\TextReplacer.exe
+C:\Users\Piotr\source\repos\TextReplacer\TextReplacer\obj\Debug\TextReplacer.pdb
